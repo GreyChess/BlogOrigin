@@ -4,6 +4,9 @@ tag: 标签
 archive: 归档
 prev: 上一页
 next: 下一页
+homepage: 主页
+byyear: 时间排序
+author: 灰棋
 cc:
   hint: 本作品采用知识共享 %s 4.0 国际许可协议进行许可。
   by: 署名

@@ -48,7 +48,7 @@
               </li>
             <% } else { %>
               <li>
-                <%- link_to(item.url, item.name, {external: item.url.indexOf('http') === 0}) %>
+                <%- link_to(item.url, __(item.name), {external: item.url.indexOf('http') === 0}) %>
               </li>
             <% } %>
           <% }) %>

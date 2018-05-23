@@ -27,21 +27,21 @@ nav:
     - archives   # display a collapsible archive list
   -
     -
-      name: Homepage
+      name: homepage
       url: '/'
     -
-      name: By Year
+      name: byyear
       url: /archives
   -
-    -
-      name: Chan
-      url: https://github.com/denjones/hexo-theme-chan
+#    -
+#      name: author
+#      url: https://github.com/GreyChess
     -
       name: Github
-      url: https://github.com/denjones
-    -
-      name: RSS
-      url: /atom.xml
+      url: https://github.com/GreyChess
+#    -
+#      name: RSS
+#      url: /atom.xml
 
 # duoshuo shortname
 # refer to http://duoshuo.com

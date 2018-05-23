@@ -4,6 +4,9 @@ tag: Tag
 archive: Archive
 prev: Prev
 next: Next
+homepage: Homepage
+byyear: By Year
+author: GreyChess
 cc:
   hint: This work is licensed under a Creative Commons %s 4.0 International License.
   by: Attribution
