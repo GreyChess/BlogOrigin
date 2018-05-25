@@ -1,11 +1,12 @@
 ---
 title: 如何在github上优雅地建立自己的博客
 layout:     post
+category:   公开博客
 date:       2018-05-24
 author:     "Qian Yichao"
 tags:
-    - Hexo
-excerpt: Hexo是一个前端的博客框架，需要注意的是这是一个比较专业化的框架，主要面对的是生成博客文章的静态页面。
+    - Hexo    
+    - Github    
 ---
 
 在好友的撺掇之下，我也学着开始在网络上建立自己的博客。
@@ -13,6 +14,8 @@ excerpt: Hexo是一个前端的博客框架，需要注意的是这是一个比�
 ### 1. 写在最开始的地方
 
 本博客由[Hexo](https://hexo.io/)框架构建，发布于github。文笔水平有限，要是有没有讲到位的地方还请多多包涵。
+
+<!-- more -->
 
 ### 2. 什么是Hexo
 
