@@ -81,5 +81,3 @@ deploy:
   type: git
   repository: git@github.com:GreyChess/GreyChess.github.io.git
   branch: master
-
-livere_uid: MTAyMC8zNjgwNC8xMzM0MA==
