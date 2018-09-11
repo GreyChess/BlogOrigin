@@ -12,7 +12,6 @@
   </div>
   <div class="article-entry">
     <%- post.content %>
-    <%- partial('post/sharelink', {post: post}) %>
   </div>
   <footer class="article-footer">
     <!--<%- partial('post/cc') %>-->
@@ -22,4 +21,4 @@
 
 <%- partial('post/duoshuo') %>
 <%- partial('post/gitment', {post: post}) %>
-<%- partial('post/livere') %>
+<%- partial('post/sharelink', {post: post}) %>
